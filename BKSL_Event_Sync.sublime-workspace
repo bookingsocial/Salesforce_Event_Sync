@@ -1,0 +1,325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v",
+				"value2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"git: br",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git ",
+				"Git: Init"
+			],
+			[
+				"gi",
+				"Git: Diff"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/G/Mavensmate/BKSL/src/triggers/BKSL_Service.trigger",
+		"/G/Mavensmate/BKSL/src/triggers/BKSL_Expert.trigger",
+		"/G/Mavensmate/BKSL/src/classes/SETUP_Utils_UT.cls",
+		"/G/Mavensmate/BKSL/src/classes/SETUP_Organization_WS.cls",
+		"/G/Mavensmate/BKSL/src/triggers/BKSL_Expert_Service.trigger",
+		"/G/Mavensmate/BKSL/src/classes/ENGN_CreateLead.cls",
+		"/G/Mavensmate/BKSL/src/classes/SETUP_Utils.cls",
+		"/G/Mavensmate/BKSL/src/classes/COMP_CreateAppointment.cls",
+		"/G/Mavensmate/BKSL/src/classes/REMT_Calendar_Utils.cls",
+		"/G/Mavensmate/BKSL/src/classes/ENGN_BookAppointment.cls",
+		"/G/Mavensmate/BKSL/src/classes/ENGN_BuildSlotDefinition.cls",
+		"/G/Mavensmate/BKSL/src/classes/BOOK_Utils.cls",
+		"/G/Mavensmate/BKSL/src/classes/HNDL_ErrorLogger.cls",
+		"/G/Mavensmate/BKSL/src/classes/HNDL_Notifier_BT.cls",
+		"/G/Mavensmate/BKSL/src/classes/COMP_CustomerTimeline.cls",
+		"/G/Mavensmate/BKSL/src/classes/COMP_CreateAppointment_UT.cls",
+		"/G/Mavensmate/BKSL/src/classes/REMT_Configuration.cls",
+		"/G/Mavensmate/BKSL/src/classes/PostInstallation.cls",
+		"/G/Mavensmate/BKSL/src/classes/SETUP_EditService.cls",
+		"/G/Mavensmate/BKSL/src/classes/SETUP_EditService.cls-meta.xml",
+		"/G/Mavensmate/BKSL/src/classes/SETUP_GetAllExperts.cls-meta.xml",
+		"/G/Mavensmate/BKSL/src/classes/SETUP_GetAllGroups.cls-meta.xml",
+		"/G/Mavensmate/BKSL/src/classes/SETUP_GetAllServices.cls-meta.xml",
+		"/G/Mavensmate/BKSL/src/classes/SETUP_GetAllServices_UT.cls-meta.xml",
+		"/G/Mavensmate/BKSL/src/classes/SETUP_UIConfiguration.cls-meta.xml",
+		"/G/Mavensmate/BKSL/src/classes/SETUP_Utils.cls-meta.xml",
+		"/G/Mavensmate/BKSL/src/classes/SETUP_Utils_UT.cls-meta.xml",
+		"/G/Mavensmate/BKSL/src/pages/CONF_Account.page",
+		"/G/Mavensmate/BKSL/src/classes/REMT_BookingWidget.cls",
+		"/G/Mavensmate/BKSL/src/classes/COMM_AppointmentTimeline.cls",
+		"/G/Mavensmate/BKSL/src/triggers/BKSL_Service_Request.trigger",
+		"/G/Mavensmate/BKSL/BKSL.sublime-project",
+		"/G/Mavensmate/BKSL/src/classes/CONF_UpgradeLicense.cls",
+		"/C/Users/bala.subramanian/AppData/Roaming/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/C/Users/bala.subramanian/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/C/Users/bala.subramanian/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/bala.subramanian/AppData/Roaming/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/G/Mavensmate/CEPURBA/CEPURBA.sublime-settings",
+		"/C/Users/bala.subramanian/AppData/Roaming/Sublime Text 3/Packages/MavensMate/mavensmate.sublime-settings",
+		"/G/Mavensmate/CEPURBA/CEPURBA.sublime-project",
+		"/G/Workspace/BKSL/test",
+		"/C/Users/bala.subramanian/AppData/Roaming/Sublime Text 3/Packages/User/test",
+		"/G/Source Control/Compare/pages_pramati/AddAccountTeamButton.page",
+		"/C/Users/bala.subramanian/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Default (Windows).sublime-mousemap",
+		"/C/Users/bala.subramanian/AppData/Roaming/Sublime Text 3/Packages/User/Sublimerge.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"G:\\Mavensmate\\BKSL\\src",
+			"G:\\Mavensmate\\BKSL\\src\\classes"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"BKSL_LeadCreation",
+			"runtest",
+			"sync",
+			"Please contact Booking Social administrator with this error",
+			"APPOINTMENTCOUNT",
+			"= 10;\n	public Integer freeMaxLimit =",
+			"freeMinLimit",
+			"except",
+			"provi",
+			"decryptVersion",
+			"decryptLimit",
+			"_Response getLimits(String limitKey){\n		SETUP_Organization_WS.INTF_Response response = new SETUP_Organization_WS.INTF_Response();\n		return response;\n	}",
+			"getSettings",
+			"BKSL_Settings",
+			"new set<String>();\n    	skipStatus.add('Canceled');\n    	skipStatus.add('Cancelled');\n    	skipStatus.add('Waiting List');\n    	skipStatus.add('Private');",
+			"nceled');\n    	skipStatus.add('Canceled');\n    	skipStatus.add('Can",
+			"strAvaialbilityCheckWhere",
+			"lstDates",
+			"TEST LOG:",
+			"sentNotificationServiceNamespace",
+			"Type.forName",
+			"createLeadService",
+			"selectedDate",
+			"reqStartDateTime",
+			"isCallingFromCalendar",
+			"ENGN_BuildSlotDefinition",
+			"etExpertAvailableSlotByDate",
+			"lstExpertId",
+			"INTF_GetDefaultSchedules_WS",
+			"etExpertAvailableSlotByDate",
+			"clsBH",
+			"getServiceHolidays",
+			"holiday",
+			"timezon",
+			"strRescheduleServiceRequestId",
+			"properties.objServiceRequest.BKSL2__Master_Service_Request__c",
+			"licenseVersion",
+			"comp_makefooter",
+			"comp_headernav",
+			"container",
+			"navigation",
+			"REMT_Configuration",
+			"account",
+			"decr",
+			"CREATEACCOUNT123",
+			"datetime.newInstance",
+			"datetime",
+			"new da",
+			"new date",
+			"getAdditionalExperts",
+			"License key is invalid, contact Booking Social administrator for valid license key",
+			"getAllServicesByProvider",
+			"getListofAccounts",
+			"REMT_Configuration"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 259.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "BKSL_Event_Sync.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"G:\\Mavensmate\\BKSL_Dev\\BKSL_Dev.sublime-project"
+			],
+			[
+				"BKSL",
+				"G:\\Mavensmate\\BKSL_Dev\\BKSL_Dev.sublime-project"
+			],
+			[
+				"bk",
+				"G:\\Workspace\\BKSL\\bksl.sublime-workspace"
+			],
+			[
+				" ",
+				"G:\\Workspace\\BKSL\\bksl.sublime-workspace"
+			],
+			[
+				"cep",
+				"G:\\Mavensmate\\CEPURBA\\CEPURBA.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 81.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

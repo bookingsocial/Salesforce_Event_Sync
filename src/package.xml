@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>BKSL_SyncEvent</members>
+        <members>BKSL_SyncServiceRequest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>syncEvent</members>
+        <members>syncServiceRequest</members>
+        <name>ApexTrigger</name>
+    </types>
+    <version>34.0</version>
+</Package>
